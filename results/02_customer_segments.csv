@@ -1,0 +1,5 @@
+customer_segment,customers,customer_share_pct,delivered_orders,item_revenue_brl,average_customer_revenue_brl,average_recency_days,customers_in_platform_top_100_revenue
+High-value one-time buyer,24935,26.7,24935,8135716.89,326.28,237.3,96
+One-time buyer,65694,70.3,65694,4365748.94,66.46,238.3,0
+High-value repeat buyer,1771,1.9,3809,629543.78,355.47,213.8,4
+Repeat buyer,996,1.1,2040,90488.5,90.85,231.5,0

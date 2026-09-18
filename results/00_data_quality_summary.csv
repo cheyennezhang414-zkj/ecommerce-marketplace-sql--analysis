@@ -1,0 +1,8 @@
+metric,value,interpretation
+Orders in source,99441,"All order-status records, including cancelled and unavailable orders."
+Delivered orders,96478,Completed-order population used for revenue and merchant analyses.
+Order line items,112650,Item-level records. One order can contain more than one line item.
+Orders without a matched customer,0,Expected to be zero after the orders-to-customers join.
+Order items without a matched product,0,Expected to be zero after the order_items-to-products join.
+Order items without a matched seller,0,Expected to be zero after the order_items-to-sellers join.
+Delivered orders missing actual delivery date,8,Excluded from delivery-timeliness calculations.

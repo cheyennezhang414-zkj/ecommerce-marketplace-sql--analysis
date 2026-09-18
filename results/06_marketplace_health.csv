@@ -1,0 +1,8 @@
+metric,value,definition
+Delivered item revenue (BRL),13221498.11,Sum of item price on delivered orders; excludes freight and platform fees.
+Delivered orders,96478,Completed-order population.
+Active sellers,2970,Sellers with at least one delivered order item.
+Top 10 seller revenue share (%),13.27,Concentration of delivered item revenue among the top ten sellers.
+Repeat customer rate (%),3.0,Share of unique customers with at least two delivered orders.
+Late delivery rate (%),8.11,Actual delivery date later than the estimated delivery date; only dated delivered orders.
+Observed purchase window,2016-09-15 to 2018-08-29,Delivered-order purchase dates present in the public source.

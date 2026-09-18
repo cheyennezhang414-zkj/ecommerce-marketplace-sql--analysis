@@ -1,0 +1,9 @@
+# Source data and the generated SQLite database are reproducible but not versioned.
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+*.db
+*.zip
+__pycache__/
+

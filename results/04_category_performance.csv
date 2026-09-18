@@ -1,0 +1,75 @@
+category_revenue_rank,product_category,delivered_units,delivered_orders,item_revenue_brl,revenue_share_pct,average_item_price_brl,operating_signal
+1,health_beauty,9465,8647,1233131.72,9.33,130.28,Top-revenue category: protect availability and seller quality
+2,watches_gifts,5859,5495,1166176.98,8.82,199.04,Top-revenue category: protect availability and seller quality
+3,bed_bath_table,10953,9272,1023434.76,7.74,93.44,Top-revenue category: protect availability and seller quality
+4,sports_leisure,8431,7530,954852.55,7.22,113.25,Top-revenue category: protect availability and seller quality
+5,computers_accessories,7644,6530,888724.61,6.72,116.26,Top-revenue category: protect availability and seller quality
+6,furniture_decor,8160,6307,711927.69,5.38,87.25,Top-revenue category: protect availability and seller quality
+7,housewares,6795,5743,615628.69,4.66,90.6,Top-revenue category: protect availability and seller quality
+8,cool_stuff,3718,3559,610204.1,4.62,164.12,Top-revenue category: protect availability and seller quality
+9,auto,4140,3810,578966.65,4.38,139.85,Top-revenue category: protect availability and seller quality
+10,toys,4030,3804,471286.48,3.56,116.94,Top-revenue category: protect availability and seller quality
+11,garden_tools,4268,3448,470495.28,3.56,110.24,Monitor
+12,baby,2982,2809,400421.84,3.03,134.28,Monitor
+13,perfumery,3340,3086,390144.65,2.95,116.81,Monitor
+14,telephony,4430,4093,309860.23,2.34,69.95,"High-volume, low-price: test bundles or cross-sell"
+15,office_furniture,1668,1254,268154.31,2.03,160.76,Monitor
+16,stationery,2466,2264,223788.69,1.69,90.75,Monitor
+17,computers,199,177,218684.14,1.65,1098.92,Monitor
+18,pet_shop,1924,1688,211695.64,1.6,110.03,Monitor
+19,musical_instruments,651,611,184315.74,1.39,283.13,Monitor
+20,small_appliances,658,609,182754.12,1.38,277.74,Monitor
+21,unknown,1537,1392,170726.63,1.29,111.08,Monitor
+22,electronics,2729,2517,155043.93,1.17,56.81,"High-volume, low-price: test bundles or cross-sell"
+23,fashion_bags_accessories,1985,1820,149329.39,1.13,75.23,"High-volume, low-price: test bundles or cross-sell"
+24,consoles_games,1089,1018,148003.37,1.12,135.91,Monitor
+25,construction_tools_construction,916,736,142108.49,1.07,155.14,Monitor
+26,luggage_accessories,1077,1019,138701.63,1.05,128.79,Monitor
+27,home_appliances_2,231,227,107953.95,0.82,467.33,Monitor
+28,home_construction,596,483,81407.57,0.62,136.59,Monitor
+29,home_appliances,754,747,78832.48,0.6,104.55,Monitor
+30,agro_industry_and_commerce,206,177,70566.1,0.53,342.55,Monitor
+31,furniture_living_room,495,414,67350.7,0.51,136.06,Monitor
+32,home_confort,429,392,58008.45,0.44,135.22,Monitor
+33,fixed_telephony,255,212,55315.21,0.42,216.92,Monitor
+34,air_conditioning,289,246,53323.56,0.4,184.51,Monitor
+35,audio,362,348,50570.6,0.38,139.7,Monitor
+36,small_appliances_home_oven_and_coffee,73,72,46589.56,0.35,638.21,Monitor
+37,kitchen_dining_laundry_garden_furniture,274,241,45531.98,0.34,166.18,Monitor
+38,books_general_interest,537,496,45302.15,0.34,84.36,Monitor
+39,construction_tools_lights,301,242,39957.0,0.3,132.75,Monitor
+40,construction_tools_safety,183,159,38773.22,0.29,211.88,Monitor
+41,industry_commerce_and_business,265,232,38498.81,0.29,145.28,Monitor
+42,food,499,441,28731.15,0.22,57.58,Monitor
+43,market_place,305,274,27795.77,0.21,91.13,Monitor
+44,costruction_tools_garden,232,190,25096.28,0.19,108.17,Monitor
+45,art,197,195,23657.3,0.18,120.09,Monitor
+46,fashion_shoes,257,235,23001.46,0.17,89.5,Monitor
+47,drinks,361,287,21529.84,0.16,59.64,Monitor
+48,signaling_and_security,197,138,21315.05,0.16,108.2,Monitor
+49,furniture_bedroom,103,90,19051.8,0.14,184.97,Monitor
+50,books_technical,263,256,18702.23,0.14,71.11,Monitor
+51,costruction_tools_tools,103,97,15903.95,0.12,154.41,Monitor
+52,food_drink,269,221,14942.88,0.11,55.55,Monitor
+53,fashion_male_clothing,125,106,10452.33,0.08,83.62,Monitor
+54,fashion_underwear_beach,127,117,9305.95,0.07,73.28,Monitor
+55,christmas_supplies,150,125,8737.84,0.07,58.25,Monitor
+56,tablets_printing_image,83,79,7528.41,0.06,90.7,Monitor
+57,cine_photo,70,63,6674.47,0.05,95.35,Monitor
+58,music,38,38,6034.35,0.05,158.8,Monitor
+59,dvds_blu_ray,61,56,4542.59,0.03,74.47,Monitor
+60,party_supplies,42,38,4465.19,0.03,106.31,Monitor
+61,books_imported,57,50,4418.86,0.03,77.52,Monitor
+62,furniture_mattress_and_upholstery,37,37,4323.38,0.03,116.85,Monitor
+63,portateis_cozinha_e_preparadores_de_alimentos,14,13,3933.63,0.03,280.97,Monitor
+64,fashio_female_clothing,45,36,2634.94,0.02,58.55,Monitor
+65,fashion_sport,29,26,2094.52,0.02,72.22,Monitor
+66,la_cuisine,14,13,2054.99,0.02,146.78,Monitor
+67,arts_and_craftmanship,24,23,1814.01,0.01,75.58,Monitor
+68,diapers_and_hygiene,37,25,1500.79,0.01,40.56,Monitor
+69,pc_gamer,8,7,1306.95,0.01,163.37,Monitor
+70,flowers,33,29,1110.04,0.01,33.64,Monitor
+71,home_comfort_2,30,24,760.27,0.01,25.34,Monitor
+72,cds_dvds_musicals,14,12,730.0,0.01,52.14,Monitor
+73,fashion_childrens_clothes,7,7,519.95,0.0,74.28,Monitor
+74,security_and_services,2,2,283.29,0.0,141.64,Monitor
